@@ -1,0 +1,16 @@
+{
+    "destino": "Manizales",
+    "fecha_inicio": "2024-06-09",
+    "fecha_final": "2024-06-15",
+    "presupuesto_diario": 250000.0,
+    "tasa_conversion": 3747,
+    "gastos": [
+        {
+            "fecha": "2024-06-10",
+            "valor": 250.0,
+            "metodo_pago": "tarjeta",
+            "tipo_gasto": "compras",
+            "valor_en_cop": 988750.0
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "destino": "Espa\u00f1a",
+    "fecha_inicio": "2024-06-15",
+    "fecha_final": "2024-06-25",
+    "presupuesto_diario": 500000.0,
+    "tasa_conversion": 3987,
+    "gastos": [
+        {
+            "fecha": "2024-06-16",
+            "valor": 200.0,
+            "metodo_pago": "tarjeta",
+            "tipo_gasto": "compras",
+            "valor_en_cop": 830800.0
+        },
+        {
+            "fecha": "2024-06-20",
+            "valor": 300.0,
+            "metodo_pago": "tarjeta",
+            "tipo_gasto": "entretenimiento",
+            "valor_en_cop": 1171200.0
+        }
+    ]
+}
